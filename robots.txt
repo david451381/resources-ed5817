@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://david451381.github.io/resources-ed5817/sitemap.xml
